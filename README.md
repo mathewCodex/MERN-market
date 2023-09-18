@@ -21,8 +21,6 @@ An online marketplace application with seller accounts, product search and sugge
    - To run the application for development, run ```  npm run development  ```
 5. Open [localhost:3000](http://localhost:3000/) in the browser
 
-## Get the book
-#### [Full-Stack React Projects](https://www.packtpub.com/web-development/full-stack-react-projects)
 *Unleash the power of MERN stack by building diverse web applications using React, Node.js, Express, and MongoDB*
 
 
